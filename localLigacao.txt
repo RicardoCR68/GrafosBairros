@@ -1,0 +1,144 @@
+42
+0 "Casa Ricardo"
+1 "Casa Avos Ricardo"
+2 "Casa Mae Ricardo"
+3 "Shopping Metro Santa Cruz"
+4 "Hospital Sao Paulo"
+5 "Montero Bar"
+6 "Taverna Medieval"
+7 "Legitimo"
+8 "Santa Gemma"
+9 "Renner"
+10 "Japorama"
+11 "Casa do Luan"
+12 "Casa do Andre"
+13 "Clinica Renascenca"
+14 "Kiichi"
+15 "OurCoffeeSP"
+16 "1900 Pizzaria"
+17 "Joes Burger"
+18 "Burguer Place"
+19 "IG&T"
+20 "Pao de Acucar"
+21 "Bfit Academia"
+22 "Rosario"
+23 "Parque Ibirapuera (Portoes 1 e 2)"
+24 "Posto de Saude Santa Cruz"
+25 "Belas Artes"
+26 "Don Pancho"
+27 "Museu de Arte Moderna "
+28 "Casa Joao Pedro"
+29 "Casa Nova Joao Pedro"
+30 "Praca do conjunto Vila Mariana"
+31 "Mahrte"
+32 "Kalunga"
+33 "Veloso"
+34 "Poliedro"
+35 "Pastorinho"
+36 "Pao de Acucar"
+37 "Personal Trainer (Paulo)"
+38 "Casa do Catito"
+39 "Turma do Acai"
+40 "Sepaco"
+41 "Parque Modernista"
+100
+0 5 0.13 1
+0 15 0.19 1
+1 7 0.062 1
+2 14 0.18 1
+2 18 0.23 1
+2 21 0.14 1
+3 9 0.079 1
+3 10 0.021 1
+3 35 1.1 3
+3 41 1 3
+4 12 0.95 4
+5 4 0.75 2
+5 8 0.27 1
+5 11 0.95 3
+5 20 0.25 1
+6 13 0.24 1
+6 25 0.9 3
+6 26 0.9 3
+7 14 0.14 1
+7 19 0.15 1
+8 6 1.4 5
+8 14 0.2 1
+8 16 1 4
+9 3 0.9 4
+9 17 0.45 1
+9 22 0.95 4
+10 4 0.85 2
+10 11 0.3 1
+11 3 0.55 3
+11 4 0.55 2
+11 8 0.9 3
+11 16 1 4
+12 6 1.5 5
+12 18 0.95 3
+13 6 0.85 3
+13 16 0.5 2
+14 2 0.18 1
+14 7 0.14 1
+14 8 0.6 2
+14 15 0.4 1
+15 14 0.4 1
+15 20 0.12 1
+16 3 1.1 4
+16 35 1.3 4
+17 9 1.8 5
+17 22 1.3 4
+18 2 0.23 1
+18 21 0.26 1
+19 0 0.19 1
+19 17 0.65 1
+20 15 0.12 1
+20 22 0.23 1
+21 1 0.25 1
+21 18 0.26 1
+22 9 0.8 3
+22 17 0.16 1
+22 20 1 3
+23 12 1.7 3
+23 16 1.8 4
+23 18 2.7 6
+23 26 2.2 5
+23 27 1.2 4
+24 38 1.3 3
+25 6 1.1 3
+25 34 1.4 4
+26 6 1 2
+26 23 2.2 4
+26 25 1 3
+27 23 0.55 3
+28 24 0.85 2
+28 37 0.25 1
+28 39 0.3 1
+29 37 1.3 3
+31 33 1.7 4
+31 35 1.3 3
+32 26 1.7 5
+32 34 0.65 2
+33 32 0.65 2
+33 34 1.2 3
+33 35 2.6 7
+34 6 1.4 4
+34 25 0.9 3
+34 32 1.5 5
+34 33 1.7 5
+35 3 1.2 3
+35 16 2 5
+35 31 0.65 1
+35 33 1.3 3
+35 34 1.5 4
+36 29 0.45 1
+37 28 0.22 2
+37 29 2.4 5
+38 36 1.5 3
+39 28 0.3 1
+39 36 1.7 3
+40 31 1.1 3
+40 39 0.8 2
+41 3 1 3
+41 24 0.85 2
+41 35 0.9 3
